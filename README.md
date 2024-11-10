@@ -31,8 +31,7 @@
 <div align="center">
   <a href="https://github.com/remondevries/notion-restyled">
     <img src="Icon.png" alt="Logo" width="96" height="96">
-    <hr />
-    <img src="_/title.png" alt="Title" width="246" height="38">
+    <p><img src="_/title.png" alt="Title" width="246" height="38"></a></p>
   </a>
 
   <p align="center">
